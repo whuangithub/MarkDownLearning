@@ -93,5 +93,7 @@ add at least four spaces
 		print(cv2.__version__)
 
 
-[Cheet Sheet](https://www.markdownguide.org/cheat-sheet/)
+##### Useful Links
+
+[Cheet Sheet](https://www.markdownguide.org/cheat-sheet/)  
 [Basic Syntax](https://www.markdownguide.org/basic-syntax/)
